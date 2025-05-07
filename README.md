@@ -39,18 +39,13 @@ A lighthearted browser-based game that randomly assigns hilarious or unexpected 
 
 ### Input:
 Names: Nadia, John, Aysooda
+
 Tasks: Smile at, Dance with, Cuddle
 
-shell
-Copy
-Edit
 
 ### Output:
 John must Dance with Aysooda right now.
 
-yaml
-Copy
-Edit
 
 ---
 
